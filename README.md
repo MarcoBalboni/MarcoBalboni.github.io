@@ -1,7 +1,7 @@
 # MarcoBalboni.github.io
 
 
-Website for Marco Balboni, Post-Doc at the Universita di Bologna, Italy.
+Website for Marco Balboni, Post-Doc at the Università di Bologna, Italy.
 
 Built using Strata template by HTML5 UP
 html5up.net | @ajlkn
